@@ -162,8 +162,8 @@ function AboutPage() {
             <h1>Who we are</h1>
             Web Development & Consulting Club Incorporated started as student
             club at the University of Auckland in 2019. Since then, we have
-            expanded to a membership base of 450+ members, serving students
-            across Auckland from both UOA and AUT.
+            expanded to a membership base of 850+ members, serving students
+            across Auckland from both UOA and AUT. We are the largest tech club in Aotearoa.
           </AboutDescription>
         </div>
       </TeamScreen>
